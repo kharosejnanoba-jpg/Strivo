@@ -1,4 +1,4 @@
-# Hi 👋, I'm Dnyanoba
+# Hi 👋, I'm Samarth 
 
 🎓 Student: Cyber Security & Digital Science  
 💻 Learning: Linux, Termux, Git, Cyber Security  
